@@ -1,0 +1,120 @@
+.header {color: white;
+    padding: 8px;
+    font-weight: bolder;
+    }
+
+    
+    .fg{display: flex;
+        background-color: #1f2937;
+    color: white;
+    justify-content: space-around;
+    align-items: stretch;
+    margin: 0px;
+    padding: 10px;
+    gap: 30px;}
+
+    .col{ display: flex;
+flex-direction: column;
+gap: 20px;
+}
+
+
+    body {padding: 0px;
+    margin: 0px;}
+    
+    .square { width: 400px;
+    height: 200px;
+background-color: azure;
+border-color: aliceblue;
+color: black;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 40px;
+margin-bottom: 40px;}
+
+.but { display: flex;
+max-width: 80px;
+justify-content: center;
+align-items: center;
+background-color: blue;
+color: white;
+font-weight: bold;
+}
+.vs {font-size: 28px;
+font-weight: 900;}
+
+.rob{ max-width: 400px;}
+
+.vss{ display: flex;
+    flex-direction: column;
+}
+.div {display: flex;
+flex-direction: row;
+justify-content:space-around;
+align-items: center;
+gap: 8px;
+}
+
+.boxi{ display: flex;
+    flex-direction: column; 
+    border: 2px solid blue;
+    height: 80px;
+width: 90px;
+margin: 8px;
+gap: 10px;}
+
+.center{ display: flex;
+justify-content: center;
+align-items: center;
+font-weight: 700;
+font-size: x-large;}
+.feg { display: flex;
+justify-content: center;
+align-items: center;}
+.ds { display: flex;
+flex-direction: column;}
+.random { display: flex;
+justify-content: space-around;
+align-items: center;
+gap: 8px;
+max-width: 100px;}
+
+.iiibox { display: flex;
+justify-content: right;
+font-weight: 800;}
+.grt { display: flex;
+align-items: center;
+justify-content: center;
+font-style: light italic;
+font-size: 20px;
+}
+.nhn {padding: 140px;
+background-color: #e5e7eb;}
+.len {background-color: blue;
+color: white;
+margin: 70px;
+padding: 60px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;}
+.call {margin-right:345px;
+    font-size: 20px;
+font-weight: 400;
+font-style: normal;}
+.x {
+background-color: blue;
+color: white;
+justify-content: right;
+align-items: flex-end;
+border-color:solid aliceblue;
+margin-left: 100px
+;}
+.closing {display: flex;
+justify-content: center;
+align-items: center;
+background-color: black;
+font-size: large;
+color: white;
+padding: 30px;}
